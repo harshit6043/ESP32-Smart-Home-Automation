@@ -68,7 +68,10 @@ ESP32-Smart-Home-Automation/
 ├── src/
 │   └── main.ino
 └── README.md
-⚠️ Safety Notes
+```
+
+
+## ⚠️ Safety Notes
 Voltage Compatibility: Confirm the relay module's operating voltage requirements and logic level compatibility before connecting it to the ESP32.
 
 Power Isolation: Always disconnect the power supply before making or altering any physical wiring.
@@ -77,8 +80,8 @@ Mains Electricity Risk: Mains electricity can cause severe injury, electrocution
 
 Credential Privacy: Keep your Blynk authentication token and Wi-Fi credentials secure. Never publish active credentials to a public repository.
 
-📘 Project Guide
+## 📘 Project Guide
 Refer to the ESP32 Smart Home Automation Guide Image located in the docs/ folder for visual wiring references and setup diagrams.
 
-💡 Acknowledgement
-Built as an embedded systems project exploring Wi-Fi-based appliance control and practical home automation applications. 🛠️
+## 💡 Acknowledgement
+Built as an embedded systems project exploring Wi-Fi-based appliance control and practical home automation applications. 
