@@ -59,16 +59,7 @@ This project leverages an ESP32 microcontroller, Wi-Fi connectivity, and the **B
 
 ---
 
-## 📁 Project Structure
 
-```text
-ESP32-Smart-Home-Automation/
-├── docs/
-│   └── ESP32 Smart Home Automation Guide.png
-├── src/
-│   └── main.ino
-└── README.md
-```
 
 
 ## ⚠️ Safety Notes
